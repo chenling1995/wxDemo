@@ -22,7 +22,7 @@ public final class CommonConstants {
     public final static long JWT_INFO_EXPIRESSECOND = 172800000;
     //public final static long JWT_INFO_EXPIRESSECOND = 2000;
     //秘钥
-    public final static String JWT_INFO_BASE64SECRET = "DUCETECHY2Q0NjIxZDM3M2NhZGU0ZTgzMjYyN2I0ZjY=";
+    public final static String JWT_INFO_BASE64SECRET = "xxxxxx";
 
     /**
      * 成功结果码
