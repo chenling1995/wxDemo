@@ -12,7 +12,7 @@ public class Constant {
 	public static final String RODLAVER_CHANNEL_MAIN = "RODLAVER_CHANNEL_MAIN";
 
 	// 秘钥
-	public final static String JWT_INFO_BASE64SECRET = "DUCETECHY2Q0NjIxZDM3M2NhZGU0ZTgzMjYyN2I0ZjY=";
+	public final static String JWT_INFO_BASE64SECRET = "xxxxxx";
 
 	public final static String API_WEB = "/api/web/";
 	public final static String API_WX = "/api/wx/";
